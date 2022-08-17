@@ -18,3 +18,4 @@
 ### Hantek6022BE Specifications
 
 
+### Hantek6022BE Software Limitations
