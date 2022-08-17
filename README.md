@@ -14,7 +14,7 @@ It is another alternative which is compatible with both Windows and Linux based 
 
 ## 4. Openhantek Python APIs
 
-These python APIs can be used in Linux as well as Windows based systems. It eliminates almost all the limitations of the previously used software and enables the user to detect waveforms for longer duration of time, adjust the sampling rate and store the datapoints.
+These python APIs can be used in Linux as well as Windows based systems. It eliminates almost all the limitations of the previously used software and enables the user to detect waveforms for longer duration of time, adjust the sampling rate, perform zero callibration and store the datapoints.
 
 ## 5. Standard 220V AC Supply
 
