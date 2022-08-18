@@ -11,3 +11,8 @@
 # Limitations of OpenHantek
 
 * The original Hantek drivers are not supported with OpenHantek. Hence, a different driver is needed to be installed.
+
+# Reference Github Pages for Downloading and Installing the Software
+
+[Openhantek Github](https://github.com/OpenHantek/OpenHantek6022.git)
+
