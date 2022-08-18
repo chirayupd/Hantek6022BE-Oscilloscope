@@ -1,6 +1,6 @@
 BasicScope is an attempt at improving the original Hantek software. Its advantage is that it makes use of the Hantek drivers and can store data for larger time than original Hantek software. 
 
-However, The user interface is not good as the screen kept flickering.
+However, The user interface is not good as the screen kept flickering and the software is only Windows compatible.
 
 ### BasicScope Source Files
 
