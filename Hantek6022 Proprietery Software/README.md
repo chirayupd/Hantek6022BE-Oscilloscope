@@ -37,3 +37,10 @@
 
 
 ### Hantek6022BE Software Limitations
+
+* Not available in Linux
+* No secondary development using APIs.
+* Limited data points storage (2 seconds only)
+* Despite 20MHz bandwidth, distortions of signal begins at 3.7 MHz.
+
+
