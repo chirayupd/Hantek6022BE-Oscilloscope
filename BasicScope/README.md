@@ -2,7 +2,7 @@ BasicScope is an attempt at improving the original Hantek software. Its advantag
 
 However, The user interface is not good as the screen kept flickering.
 
-###BasicScope Source Files
+### BasicScope Source Files
 
 The souce files are in C++ and the software can be build by compiling the source files in Visual studio.
 
