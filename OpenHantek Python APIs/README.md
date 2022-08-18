@@ -12,7 +12,7 @@ The APIs can be downloaded from the following github pages:
 
 # Linux Installation
 
-Provided are bindings for libusb to operate DSO with simple python commands. As a user you can directly install the [releases](https://github.com/Ho-Ro/Hantek6022API/releases) or if you want to modify the python programs as a developer you need to clone the [repository](https://github.com/Ho-Ro/Hantek6022API#linux-install) and work with it more intensively.
+Provided are bindings for libusb to operate DSO with simple python commands. As a user you can directly download the zip file from here or install the [releases](https://github.com/Ho-Ro/Hantek6022API/releases) or if you want to modify the python programs as a developer you need to clone the [repository](https://github.com/Ho-Ro/Hantek6022API#linux-install) and work with it more intensively.
 
 
 ## 1. Zero-offset Callibration
