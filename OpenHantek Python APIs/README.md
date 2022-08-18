@@ -65,6 +65,8 @@ optional arguments:
                         display the spectrum of the samples, optional up to MAX_FREQ
 ```
 
+Note: The data is plotted in a python file using matplotlib function. However, for files with huge number of datapoints, it may not be able to load in the matplotlib. In such case we can plot the results in MATLAb by importing the .csv file over there.
+
 ## 3. Qt framework based GUI
 
 In order to access the Qt based GUI go to examples directory
