@@ -14,6 +14,8 @@
 
 •	Browse to the Driver folder in the downloaded zip file and select Driver for Windows 10. Select the Hantek6022BE.inf file.
 
+![image](https://user-images.githubusercontent.com/51395566/187034091-41c6e67b-150e-49aa-88eb-e38701581cea.png)
+
 
 ### Hantek6022BE Specifications
 
