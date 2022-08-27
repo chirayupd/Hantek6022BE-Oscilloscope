@@ -6,3 +6,4 @@ However, The user interface is not good as the screen kept flickering and the so
 
 The souce files are in C++ and the software can be build by compiling the source files in Visual studio.
 
+![image](https://user-images.githubusercontent.com/51395566/187034129-41ceffe6-7034-4480-b4bc-99a149c2d19d.png)
