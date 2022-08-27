@@ -4,13 +4,20 @@
 
 It contains the software and hardware driver files for Windows OS and description of its installation.
 
+![image](https://user-images.githubusercontent.com/51395566/187034178-7717568d-e8a0-4d95-be8e-599293495401.png)
+
 ## 2. BasicScope
 
 It is an alternative to original Hantek software for Windows OS.
 
+![image](https://user-images.githubusercontent.com/51395566/187034166-a21f75e2-a7df-4901-a128-e1a5dcc052a2.png)
+
 ## 3. Openhantek
 
 It is another alternative which is compatible with both Windows and Linux based systems.
+
+![image](https://user-images.githubusercontent.com/51395566/187034220-45a88053-bfbf-4c25-b121-d7a7426ab98b.png)
+![image](https://user-images.githubusercontent.com/51395566/187034233-02e29fe4-2471-4cbb-a14c-376ad0043b4f.png)
 
 ## 4. Openhantek Python APIs
 
