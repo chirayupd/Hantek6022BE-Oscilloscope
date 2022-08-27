@@ -10,6 +10,16 @@ The APIs can be downloaded from the following github pages:
 
 [Ho-Ro APIs](https://github.com/Ho-Ro/Hantek6022API)
 
+* Things like voltage divisions and sampling rates can be set in a python code. 
+* Display waveforms in a Qt framework based frontend.
+* Perform zero calibration of the scope.
+* Capture data and storing it in csv file.
+* Calculating FFT and FT from the waveform.
+* Plot the captured data using the matplotlib.
+* Upload firmware instructions in the EEPROM. 
+* We can simply run the commands in the linux terminal
+
+
 # Linux Installation
 
 Provided are bindings for libusb to operate DSO with simple python commands. As a user you can directly download the zip file from here or install the [releases](https://github.com/Ho-Ro/Hantek6022API/releases) or if you want to modify the python programs as a developer you need to clone the [repository](https://github.com/Ho-Ro/Hantek6022API#linux-install) and work with it more intensively.
