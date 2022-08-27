@@ -29,6 +29,11 @@ Arguments:
  -e, --eeprom         store calibration values in eeprom
  -g, --measure_gain   interactively measure gain (as well as offset)
 ```
+![image](https://user-images.githubusercontent.com/51395566/187034446-1b27b63f-e1f4-4a6f-b900-6faeef44fa51.png)
+![image](https://user-images.githubusercontent.com/51395566/187034415-9d139752-cd20-40d6-988d-a7b60ecb7a3d.png)
+![image](https://user-images.githubusercontent.com/51395566/187034459-4e3aa58b-8570-4681-81a2-d368d9e8627c.png)
+
+
 ## 2. Data Logging with Oscilloscope
 
 With the help of python APIs, we can now log the oscilloscope datapoints for long durations. 
@@ -67,6 +72,10 @@ optional arguments:
 
 Note: The data is plotted in a python file using matplotlib function. However, for files with huge number of datapoints, it may not be able to load in the matplotlib. In such case we can plot the results in MATLAb by importing the .csv file over there.
 
+![image](https://user-images.githubusercontent.com/51395566/187034385-fcf029ca-e0a2-4394-8978-3c4d2be2b4fe.png)
+![image](https://user-images.githubusercontent.com/51395566/187034397-5d250d5d-0358-4a4e-961e-a97fe8d5e293.png)
+
+
 ## 3. Qt framework based GUI
 
 In order to access the Qt based GUI go to examples directory
@@ -75,6 +84,7 @@ In order to access the Qt based GUI go to examples directory
 usage: realtime_qt_complex.py
 ```
 The GUI is for 1-channel only, however, we can modify the source-code to include multiple channels in GUI.
+![image](https://user-images.githubusercontent.com/51395566/187034487-86ed04e3-807d-41e5-a805-e64349192d35.png)
 
 
 
