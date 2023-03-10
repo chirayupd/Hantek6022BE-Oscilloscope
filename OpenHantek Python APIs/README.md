@@ -93,7 +93,7 @@ In order to access the Qt based GUI go to examples directory
 ```
 usage: realtime_qt_complex.py
 ```
-The GUI is for 1-channel only, however, we can modify the source-code to include multiple channels in GUI.
+The GUI is for 1-channel only, however, we can modify the source-code to include 2 channels in GUI.
 ![image](https://user-images.githubusercontent.com/51395566/187034487-86ed04e3-807d-41e5-a805-e64349192d35.png)
 
 
